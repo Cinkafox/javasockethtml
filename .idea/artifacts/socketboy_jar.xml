@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="socketboy:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="socketboy.jar">
+      <element id="module-output" name="socketboy" />
+    </root>
+  </artifact>
+</component>
